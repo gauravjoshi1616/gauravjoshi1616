@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Gaurav Joshi</h1>
+ <img src="C:\Users\cs joshi\OneDrive\Desktop\My resume pic.jpg" alt="Student Photo">
+ <h1 align="center">Hi 👋, I'm Gaurav Joshi</h1>
 <h3 align="center">A passionate student from UPES, Dehradun, Uttarakhand - India</h3>
 
 <h3 align="left">Connect with me:<a href="Gaurav.14706@stu.upes.ac.in" target="_blank" rel="noreferrer"></h3>
