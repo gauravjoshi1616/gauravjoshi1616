@@ -1,10 +1,44 @@
  <img src="C:\Users\cs joshi\OneDrive\Desktop\My resume pic.jpg" alt="Student Photo">
- <h1 align="center">Hi 👋, I'm Gaurav Joshi</h1>
-<h3 align="center">A passionate student from UPES, Dehradun, Uttarakhand - India</h3>
+# Hi there, I'm Gaurav Joshi 👋
 
-<h3 align="left">Connect with me:<a href="Gaurav.14706@stu.upes.ac.in" target="_blank" rel="noreferrer"></h3>
-<p align="left">
-</p>
+🎓 **2nd Year BCA Student** at **UPES, Dehradun**  
+💻 Passionate about software development, database management, and web design  
+📚 Constantly learning and improving my technical skillset  
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
+
+## 🛠️ Technical Skills
+
+- **Programming Languages:** Python, C  
+- **Web Development:** HTML, CSS  
+- **Database Management:** MySQL  
+- **Productivity Tools:** Microsoft Excel, Microsoft Word  
+
+---
+
+## 📈 Currently Focusing On
+- Strengthening problem-solving skills in Python & C  
+- Building responsive and user-friendly web applications  
+- Exploring database optimization techniques  
+
+---
+
+## 🌐 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Gaurav%20Joshi-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/gaurav-joshi-b768a0301)  
+[![GitHub](https://img.shields.io/badge/GitHub-gauravjoshi1616-black?style=flat&logo=github)](https://github.com/gauravjoshi1616)  
+📧 **Email:** [Gaurav.14706@stu.upes.ac.in](mailto:Gaurav.14706@stu.upes.ac.in)
+
+---
+
+## 📊 GitHub Stats
+
+![Gaurav's GitHub stats](https://github-readme-stats.vercel.app/api?username=gauravjoshi1616&show_icons=true&theme=default)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gauravjoshi1616&layout=compact)
+
+---
+
+## 💡 Quote to Live By
+> *"Code is like humor. When you have to explain it, it’s bad."*
+
+---
